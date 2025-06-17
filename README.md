@@ -32,3 +32,5 @@ This README would normally document whatever steps are necessary to get your app
 
 day la dong them vao them nua vao
 
+them test vao commit
+
